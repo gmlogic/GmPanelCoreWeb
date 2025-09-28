@@ -1,0 +1,6 @@
+@GmPanelCoreWeb.Server_HostAddress = http://localhost:5097
+
+GET {{GmPanelCoreWeb.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
